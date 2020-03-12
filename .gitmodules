@@ -1,0 +1,3 @@
+[submodule "start/fzf"]
+	path = start/fzf
+	url = https://github.com/junegunn/fzf.vim
