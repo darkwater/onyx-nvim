@@ -1,3 +1,15 @@
 [submodule "start/fzf"]
 	path = start/fzf
 	url = https://github.com/junegunn/fzf.vim
+[submodule "start/syntax-toml"]
+	path = start/syntax-toml
+	url = https://github.com/cespare/vim-toml
+[submodule "start/syntax-i3config"]
+	path = start/syntax-i3config
+	url = https://github.com/mboughaba/i3config.vim
+[submodule "start/syntax-ron"]
+	path = start/syntax-ron
+	url = https://github.com/ron-rs/ron.vim
+[submodule "start/syntax-nix"]
+	path = start/syntax-nix
+	url = https://github.com/LnL7/vim-nix
