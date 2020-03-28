@@ -13,3 +13,15 @@
 [submodule "start/syntax-nix"]
 	path = start/syntax-nix
 	url = https://github.com/LnL7/vim-nix
+[submodule "start/tpope-surround"]
+	path = start/tpope-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "start/tpope-commentary"]
+	path = start/tpope-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "start/tpope-repeat"]
+	path = start/tpope-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "start/coc"]
+	path = start/coc
+	url = https://github.com/neoclide/coc.nvim
